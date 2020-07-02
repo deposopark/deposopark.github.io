@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://deposopark.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "/assets/1380-Sleeping_Cats.jpg"
+logo: "/assets/Candle-Circle-Edited.jpg"
 
 # Build settings
 markdown: kramdown
